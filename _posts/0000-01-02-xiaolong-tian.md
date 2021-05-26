@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Haha you fool!
+```
+if (youSuck()) {
+    eatApple();
+}
+```
 Use the left arrow to go back!
